@@ -32,3 +32,9 @@
 
 
 ![](https://github.com/danilkorotkov/RTU5015_5024/blob/master/img/SMS.png)
+
+Для ардуино установить обязательно https://mcudude.github.io/MightyCore/package_MCUdude_MightyCore_index.json
+
+![](https://github.com/danilkorotkov/RTU5015_5024/blob/master/img/18801447.png)
+
+
