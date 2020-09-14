@@ -57,7 +57,7 @@ bool FindNum(char *t){
      
     for (int8_t j=5; j>=0; j--){
       
-      zip =  ReadMemory(i+j);
+      zip =  ReadMemory((i*6)+j);
       if (PhoneComp[j] != zip){j=-1; found = false;}
       else {found = true;}
       if (j==0 && found){pos = (i+6)/6; i=681;}
